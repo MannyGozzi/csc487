@@ -6,8 +6,7 @@ With a partner, answer the following questions and respond to the prompts. Uploa
 
 ## Questions
 
-1. Explain the difference between Hinge Loss and Mean Squared Error?
-2. Explain the difference between Hinge Loss and Cross Entropy Loss?
+1. Compare and contrast Hinge Loss, Cross Entropy Loss, and Mean Squared Error.
 3. What is regularization and why is it needed?
 
 ## Exercise
